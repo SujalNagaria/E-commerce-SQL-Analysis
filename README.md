@@ -29,7 +29,7 @@ Using Order By was crucial to gain insights from the output.
 <img width="478" height="364" alt="Screenshot 2026-04-20 155938" src="https://github.com/user-attachments/assets/351911b9-7e6b-476b-9c19-cf9047967772" />
 
 
-**Data Driven Insights**
+**DATA DRIVEN INSIGHTS**
 
 The results indicate that Pranali Pandey is the highest-spending customer, whereas Shreya Singh contributes relatively low revenue. This distinction helps identify high-value customers and provides insight into purchasing behavior and product preferences.
 
@@ -54,7 +54,7 @@ Finally, I used ORDER BY TotalOrders DESC to rank customers based on their order
 
 
 
-**Data Driven Insights**
+**DATA DRIVEN INSIGHTS**
 
 The output reveals that Sujal Nagaria leads in total orders, but only by a small margin. This suggests limited differentiation in customer engagement and indicates potential to enhance product quality or customer experience to increase purchase frequency.
 
@@ -74,6 +74,12 @@ Finally, I used ORDER BY to rank customers based on their spending in descending
 
 <img width="531" height="436" alt="Screenshot 2026-04-20 162455" src="https://github.com/user-attachments/assets/0f743378-2e7a-4d93-aa25-e16739d68828" />
 
+
+**DATA DRIVEN INSIGHTS**
+
+We can observe that the TOP function plays a key role in identifying the top 3 highest-spending customers by limiting the results to the most valuable segment. This allows us to quickly focus on high-value customers who contribute significantly to revenue.
+
+From a business perspective, these insights are useful for prioritizing customer engagement efforts, enabling strong communication, personalized offers, and strategies to strengthen relationships.
 
 
 
