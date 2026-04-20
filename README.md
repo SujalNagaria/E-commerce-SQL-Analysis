@@ -10,7 +10,7 @@ The main purpose of making this project was to analyse how well can I structure 
 3) Orders
 4) Order_Items
 
-**\QUESTIONS SOLVED**
+**QUESTIONS SOLVED**
 
 **Q1) What were the total revenue per customer?**
 
@@ -33,6 +33,8 @@ Using Order By was crucial to gain insights from the output.
 
 The results indicate that Pranali Pandey is the highest-spending customer, whereas Shreya Singh contributes relatively low revenue. This distinction helps identify high-value customers and provides insight into purchasing behavior and product preferences.
 
+
+
 **Q2) How many number of orders are there per Customer. Also, Provide customer details.**
 
 **Output**
@@ -54,6 +56,9 @@ Finally, I used ORDER BY TotalOrders DESC to rank customers based on their order
 **Data Driven Insights**
 
 The output reveals that Sujal Nagaria leads in total orders, but only by a small margin. This suggests limited differentiation in customer engagement and indicates potential to enhance product quality or customer experience to increase purchase frequency.
+
+
+
 
 
 
