@@ -24,4 +24,18 @@ Using Order By was crucial to gain insights from the output.
 
 
 **Data Driven Insights**
-As you can see from the output that Pranali
+
+The results indicate that Pranali Pandey is the highest-spending customer, whereas Shreya Singh contributes relatively low revenue. This distinction helps identify high-value customers and provides insight into purchasing behavior and product preferences.
+
+Q2) How many number of orders are there per Customer. Also, Provide customer details.
+<img width="529" height="132" alt="Screenshot 2026-04-20 160628" src="https://github.com/user-attachments/assets/bf8f1c6d-99ab-45e3-9977-01086ce0cc00" />
+
+To retrieve this output, I first identified the relevant tables: Orders and Customers and established their relationship using CustomerID.
+
+I then used an INNER JOIN to combine both tables, ensuring only customers with orders were included. Next, I applied COUNT(OrderID) to calculate the total number of orders per customer and used GROUP BY on customer details to aggregate the results correctly.
+
+Finally, I used ORDER BY TotalOrders DESC to rank customers based on their order count, making it easier to identify the most active customers.
+
+<img width="699" height="432" alt="Screenshot 2026-04-20 153424" src="https://github.com/user-attachments/assets/fe344b75-44f9-4b4b-9f14-a05fc8c926f7" />
+
+
