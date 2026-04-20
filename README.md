@@ -58,6 +58,14 @@ Finally, I used ORDER BY TotalOrders DESC to rank customers based on their order
 
 The output reveals that Sujal Nagaria leads in total orders, but only by a small margin. This suggests limited differentiation in customer engagement and indicates potential to enhance product quality or customer experience to increase purchase frequency.
 
+**Q3) Who are the Top 3 highest speniding Customers?**
+
+**Output**
+
+<img width="579" height="112" alt="Screenshot 2026-04-20 162711" src="https://github.com/user-attachments/assets/7a293343-c0ee-47b6-a79b-21786d917d30" />
+
+
+
 
 
 
