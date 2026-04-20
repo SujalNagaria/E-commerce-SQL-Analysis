@@ -19,4 +19,8 @@ To retrieve this output, I first identified which tables can I use and tried to 
 I proceeded with joining these tables using INNER JOIN (Which retrieves matching values from both the table) on CustomerID. Last step was to group by the output by the Customer details in order to get individual total revenue for each one of them.
 Using Order By was crucial to gain insights from the output.
 
-<img width="454" height="377" alt="Screenshot 2026-04-20 153249" src="https://github.com/user-attachments/assets/5ddd059e-1f4f-4595-9f1e-dfb9cff8f6b4" />
+<img width="478" height="364" alt="Screenshot 2026-04-20 155938" src="https://github.com/user-attachments/assets/351911b9-7e6b-476b-9c19-cf9047967772" />
+
+
+**Data Driven Insights**
+As you can see from the output that Pranali
