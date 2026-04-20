@@ -81,6 +81,21 @@ We can observe that the TOP function plays a key role in identifying the top 3 h
 
 From a business perspective, these insights are useful for prioritizing customer engagement efforts, enabling strong communication, personalized offers, and strategies to strengthen relationships.
 
+**Q4) How many total quantities were sold per product?**
+
+**OUTPUT**
+
+<img width="469" height="160" alt="Screenshot 2026-04-20 164525" src="https://github.com/user-attachments/assets/c9795b2b-02c9-4e58-b321-d341553eee61" />
+
+To derive this output, I first identified that Order_Items contains transactional data (quantities sold) and Products contains descriptive details like product name and category. I linked these two tables using a join on `ProductID` to enrich the transactional data with product information.
+
+Next, I calculated the total units sold by applying `SUM(Quantity)` and grouped the results by product-level attributes (`ProductID`, `ProductName`, `Category`) to get sales volume for each product individually. Finally, I used `ORDER BY` on the aggregated quantity to rank products by demand, making it easier to identify the most sold products.
+
+**QUERY**
+
+<img width="457" height="412" alt="Screenshot 2026-04-20 153432" src="https://github.com/user-attachments/assets/969b02d4-a69b-47fe-816a-07926028bf88" />
+
+**DATA DRIVEN INSIGHTS**
 
 
 
