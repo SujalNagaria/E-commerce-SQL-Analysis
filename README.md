@@ -28,8 +28,6 @@ Using Order By was crucial to gain insights from the output.
 
 <img width="478" height="364" alt="Screenshot 2026-04-20 155938" src="https://github.com/user-attachments/assets/351911b9-7e6b-476b-9c19-cf9047967772" />
 
-
-
 **Data Driven Insights**
 
 The results indicate that Pranali Pandey is the highest-spending customer, whereas Shreya Singh contributes relatively low revenue. This distinction helps identify high-value customers and provides insight into purchasing behavior and product preferences.
