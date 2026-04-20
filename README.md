@@ -97,9 +97,17 @@ Next, I calculated the total units sold by applying `SUM(Quantity)` and grouped 
 
 **DATA DRIVEN INSIGHTS**
 
+The output highlights Adidas Shoes as the highest-selling product by volume. This trend may be influenced by rising interest in sports and fitness, effective pricing strategies, product quality, or ongoing promotions that boosted demand.
 
 
+**OVERALL CONCLUSION**
 
+The primary objective of this project is to strengthen my analytical thinking through SQL-based data analysis. It showcases my ability to write structured queries, interpret results, and derive actionable insights from data.
 
+I have outlined my thought process behind some of the queries used in this project to demonstrate my analytical approach.If you would like into more queries you can do so by navigating to the Intermediate Queries Folder.
+
+This project represents a foundational step in my data analysis journey, showcasing my ability to use SQL for extracting insights and solving practical data problems.
+
+I hope the analysis is presented clearly and the insights are easy to interpret.
 
 
