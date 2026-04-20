@@ -50,7 +50,8 @@ Finally, I used ORDER BY TotalOrders DESC to rank customers based on their order
 
 **Query**
 
-<img width="699" height="432" alt="Screenshot 2026-04-20 153424" src="https://github.com/user-attachments/assets/af5f5f1e-8c5c-4a13-b8c0-ba6dac0f0dc4" />
+<img width="704" height="401" alt="Screenshot 2026-04-20 162227" src="https://github.com/user-attachments/assets/1f7a419e-df67-4018-a219-715e5c3a4e2e" />
+
 
 
 **Data Driven Insights**
