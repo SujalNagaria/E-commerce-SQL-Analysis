@@ -60,10 +60,19 @@ The output reveals that Sujal Nagaria leads in total orders, but only by a small
 
 **Q3) Who are the Top 3 highest speniding Customers?**
 
-**Output**
+**OUTPUT**
 
 <img width="579" height="112" alt="Screenshot 2026-04-20 162711" src="https://github.com/user-attachments/assets/7a293343-c0ee-47b6-a79b-21786d917d30" />
 
+To retrieve this output, I used the Orders, Order_Items, and Customers tables and joined them using OrderID and CustomerID to connect transaction-level data with customer details. This allowed me to combine purchase information with customer attributes like name and city.
+
+I then calculated the total amount spent by each customer using SUM(Quantity * Price), ensuring the revenue is derived from detailed order-level data. After that, I grouped the results by customer details to aggregate their total spending.
+
+Finally, I used ORDER BY to rank customers based on their spending in descending order and applied TOP 3 to extract the highest-spending customers.
+
+**QUERY**
+
+<img width="531" height="436" alt="Screenshot 2026-04-20 162455" src="https://github.com/user-attachments/assets/0f743378-2e7a-4d93-aa25-e16739d68828" />
 
 
 
